@@ -33,7 +33,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hey, I'm Nikola, a FrontEnd Developer, based in Serbia.
+            Hey, I&apos;m Nikola, a FrontEnd Developer, based in Serbia.
           </p>
           <a href="#about">
             <MagicButton
